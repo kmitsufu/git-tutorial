@@ -7,3 +7,4 @@ git status
 git diff
 test
 test2
+git commit --amend
